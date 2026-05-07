@@ -51,7 +51,7 @@ Main workflow:
 
 ## Project Report
 
-[Read Full PDF]([./專題報告.pdf](https://github.com/Lu901218/Capstone-Project/blob/main/Graduation%20Project%20Report.pdf))
+[Read Full PDF](https://github.com/Lu901218/Capstone-Project/blob/main/Graduation%20Project%20Report.pdf)
 
 ---
 
